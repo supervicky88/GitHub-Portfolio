@@ -4,19 +4,16 @@ layout: default
 
 # About me
 
-I am a recent graduate with a Master's in Information Systems from the University of Maryland, bringing over six years of experience in project management, product design, and data analysis. My expertise lies in leading cross-functional teams and developing data-driven solutions to address complex challenges across industries such as real estate, technology, and social media platforms. My passion lies in leveraging technology and data to solve complex challenges and create value for stakeholders.
+Recent graduate with a Master’s in Information Systems from the University of Maryland and over six years of experience in project management, product design, and data analysis. Skilled in leading teams and delivering data-driven solutions across real estate, technology, and social media industries.
 
-In my most recent academic projects, I’ve worked on predictive modeling, relational database design, and machine learning applications, utilizing tools like Python, R, SQL, and Tableau to derive actionable insights. Professionally, I’ve streamlined processes, enhanced operational efficiency, and delivered data-driven strategies, achieving measurable results.
+Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track record of streamlining processes and enhancing workflows. Fluent in Chinese and English, I am passionate about leveraging technology to drive innovation and create value for stakeholders.
 
-Fluent in English and Mandarin, and proficient in advanced technical tools like Power BI, MongoDB, and Google Cloud, I bring a unique blend of global perspective and technical expertise. I am motivated by opportunities to bridge the gap between business and technology, whether through developing cutting-edge solutions, enhancing user experiences, or optimizing organizational processes.
-
-Outside of work, I enjoy traveling, detective/science fiction movies, and building intricate Lego creations.
-
-## Header 2
-
-> This is a blockquote following a header.
+## 🚀Skills and Tools
+> 
+- 🌟 Expertise: Project management, product design, and data analysis
+- 🌍 Languages: Fluent in English and Mandarin
+- 💻 Tools: Python, SQL, R, LucidChart, Tableau, Power BI, MongoDB, Neo4j, Google Cloud, AWS, and more!
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 

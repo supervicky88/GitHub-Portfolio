@@ -2,17 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
 
-[Link to another page](./another-page.html).
+I am a recent graduate with a Master's in Information Systems from the University of Maryland, bringing over six years of experience in project management, product design, and data analysis. My expertise lies in leading cross-functional teams and developing data-driven solutions to address complex challenges across industries such as real estate, technology, and social media platforms. My passion lies in leveraging technology and data to solve complex challenges and create value for stakeholders.
 
-There should be whitespace between paragraphs.
+In my most recent academic projects, I’ve worked on predictive modeling, relational database design, and machine learning applications, utilizing tools like Python, R, SQL, and Tableau to derive actionable insights. Professionally, I’ve streamlined processes, enhanced operational efficiency, and delivered data-driven strategies, achieving measurable results.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Fluent in English and Mandarin, and proficient in advanced technical tools like Power BI, MongoDB, and Google Cloud, I bring a unique blend of global perspective and technical expertise. I am motivated by opportunities to bridge the gap between business and technology, whether through developing cutting-edge solutions, enhancing user experiences, or optimizing organizational processes.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Outside of work, I enjoy traveling, detective/science fiction movies, and building intricate Lego creations.
 
 ## Header 2
 

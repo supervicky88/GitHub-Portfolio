@@ -4,11 +4,7 @@ layout: default
 
 # About me
 
-<<<<<<< HEAD
-[Linkedin Profile](https://www.linkedin.com/in/ningjessicaxu/).
-=======
 Recent graduate with a Master’s in Information Systems from the University of Maryland and over six years of experience in project management, product design, and data analysis. Skilled in leading teams and delivering data-driven solutions across real estate, technology, and social media industries.
->>>>>>> 1b8bd3945615104309631eb7e65ffa93083c2dbb
 
 Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track record of streamlining processes and enhancing workflows. Fluent in Chinese and English, I am passionate about leveraging technology to drive innovation and create value for stakeholders.
 
@@ -19,6 +15,10 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 - 💻 Tools: Python, SQL, R, LucidChart, Tableau, Power BI, MongoDB, Neo4j, Google Cloud, AWS, and more!
 >
 
+# Personal Info
+![LinkedIn](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+[Linkedin Profile](https://www.linkedin.com/in/ningjessicaxu/).
 ### Header 3
 
 ```js

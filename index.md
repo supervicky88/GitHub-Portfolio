@@ -16,9 +16,10 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 >
 
 # Personal Info
-![LinkedIn](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![LinkedIn](https://github.com/supervicky88/GitHub-Portfolio/blob/main/assets/imgs/linkedin.png)
 
 [Linkedin Profile](https://www.linkedin.com/in/ningjessicaxu/).
+
 ### Header 3
 
 ```js

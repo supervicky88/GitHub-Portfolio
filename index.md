@@ -45,8 +45,14 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 - **Description**: Built a chatbot for customer support using OpenAI’s API and Langchain.
 - **Tools**: Python, Langchain, OpenAI API.
 
+<h2>My Tableau Portfolio</h2>
+<p>Explore my Tableau dashboards and insights:</p>
+<a href="https://public.tableau.com/profile/jessica.xu4377/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-Portfolio-orange?logo=tableau" alt="Tableau" />
+</a>
+<br>
 <iframe 
-    src="https://public.tableau.com/shared/P2RMR8FTS?:display_count=n&:origin=viz_share_link" 
+    src="https://public.tableau.com/shared/QDCCR34G7?:display_count=n&:origin=viz_share_link" 
     width="800" 
     height="600" 
     frameborder="0">

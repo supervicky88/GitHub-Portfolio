@@ -66,7 +66,6 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
            > <param name='path' value='shared&#47;MW74W9CR9' /
                > <param name='toolbar' value='yes' /
                    ><param name='static_image' 
-
                       value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MW&#47;MW74W9CR9&#47;1.png' /
                       > <param name='animate_transition' value='yes' /
                       ><param name='display_static_image' value='yes' /

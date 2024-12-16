@@ -21,6 +21,8 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/supervicky88)
 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jessicaxu2019@gmail.com)
+
 # Projects
 
 ### [Job Postings Analysis on LinkedIn (2023)](https://github.com/username/linkedin-job-analysis)

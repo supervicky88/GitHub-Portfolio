@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+iframe {
+    border: 1px solid #ccc;
+    margin: 20px auto;
+    display: block;
+    border-radius: 5px;
+}

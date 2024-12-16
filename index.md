@@ -17,7 +17,7 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 
 # Personal Info
 
-![LinkedIn](https://github.com/supervicky88/GitHub-Portfolio/blob/main/assets/imgs/linkedin.png)
+![(https://github.com/supervicky88/GitHub-Portfolio/blob/main/assets/imgs/linkedin.png)](https://www.linkedin.com/in/ningjessicaxu/)
 
 # Projects
 

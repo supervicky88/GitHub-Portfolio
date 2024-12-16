@@ -66,5 +66,3 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 
 ---
 
-![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-

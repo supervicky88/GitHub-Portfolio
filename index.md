@@ -2,23 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
 
+<<<<<<< HEAD
 [Linkedin Profile](https://www.linkedin.com/in/ningjessicaxu/).
+=======
+Recent graduate with a Master’s in Information Systems from the University of Maryland and over six years of experience in project management, product design, and data analysis. Skilled in leading teams and delivering data-driven solutions across real estate, technology, and social media industries.
+>>>>>>> 1b8bd3945615104309631eb7e65ffa93083c2dbb
 
-There should be whitespace between paragraphs.
+Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track record of streamlining processes and enhancing workflows. Fluent in Chinese and English, I am passionate about leveraging technology to drive innovation and create value for stakeholders.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+## 🚀Skills and Tools
+> 
+- 🌟 Expertise: Project management, product design, and data analysis
+- 🌍 Languages: Fluent in English and Mandarin
+- 💻 Tools: Python, SQL, R, LucidChart, Tableau, Power BI, MongoDB, Neo4j, Google Cloud, AWS, and more!
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 

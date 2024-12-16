@@ -44,7 +44,7 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 
 ### **Customized Chatbot for Learn Prompting**
 **Description**: Built a chatbot for customer support using OpenAI’s API and Langchain.  
-**Tools**: Python, Langchain, OpenAI API.  
+**Tools**: Python, Langchain, OpenAI.  
 
 ---
 

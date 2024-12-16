@@ -50,7 +50,7 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 
 ## 📊 Tableau Projects
 
-<iframe src="https://public.tableau.com/views/shared/KTCK9HP7Y?:showVizHome=no&:embed=true"
+<iframe src="https://public.tableau.com/shared/3WDYC74CZ?:display_count=n&:origin=viz_share_link"
         width="100%" 
         height="600" 
         frameborder="0">

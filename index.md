@@ -16,9 +16,39 @@ Proficient in Excel, Python, SQL, R, Tableau, and AWS, with a proven track recor
 >
 
 # Personal Info
+
 ![LinkedIn](https://github.com/supervicky88/GitHub-Portfolio/blob/main/assets/imgs/linkedin.png)
 
-[Linkedin Profile](https://www.linkedin.com/in/ningjessicaxu/).
+# Projects
+
+### [Job Postings Analysis on LinkedIn (2023)](https://github.com/username/linkedin-job-analysis)
+- **Description**: Analyzed LinkedIn job postings to identify trends and provide career development insights for graduate students.
+- **Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, WordCloud).
+
+---
+
+### [UMD Smith School Database Design](https://github.com/username/umd-database-design)
+- **Description**: Developed a relational database for program rankings, faculty details, and admission criteria.
+- **Tools**: SQL, SSMS, Lucidchart.
+
+---
+
+### [Kickstarter Success Prediction](https://github.com/username/kickstarter-prediction)
+- **Description**: Predicted Kickstarter project success with 80% accuracy using machine learning techniques.
+- **Tools**: R (tidyverse, caret, glmnet).
+
+---
+
+### [Flight Delay Prediction](https://github.com/username/flight-delay-prediction)
+- **Description**: Predicted flight delays with ~85% accuracy using PySpark and machine learning.
+- **Tools**: Python (PySpark, Scikit-learn), Google Colab.
+
+---
+
+### [Customized Chatbot for Learn Prompting](https://github.com/username/learn-prompting-chatbot)
+- **Description**: Built a chatbot for customer support using OpenAI’s API and Langchain.
+- **Tools**: Python, Langchain, OpenAI API.
+
 
 ### Header 3
 

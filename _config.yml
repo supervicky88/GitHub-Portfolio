@@ -1,5 +1,15 @@
 title: Jessica Xu
 description: Welcome to my page!
-show_downloads: true
+author: Jessica Xu
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+
+# Navigation menu
+nav_links:
+  - title: "About Me"
+    url: /about-me
+  - title: "Projects"
+    url: /projects
+  - title: "Contact"
+    url: /contact
